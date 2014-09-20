@@ -8,8 +8,6 @@ Para esta prueba es necesario implementar el ambiente de desarrollo local y no o
 * editor de texto
 * computador
 * cuenta en github
-* ...
-* ...
-
-TODO: Completar los requsitos
-
+* crear la llave publica y privada 
+* crear el repositorio en Github
+* seleccionar la licencia de nuestra preferencia
